@@ -1,0 +1,1 @@
+Note that this needs a compiled version of Triangle in order to work, which can be found here http://www.cs.cmu.edu/~quake/triangle.html.
